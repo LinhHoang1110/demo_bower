@@ -1,0 +1,17 @@
+{
+  "name": "demo-bower",
+  "version": "1.0.1",
+  "authors": [
+    "Hoang Linh <tranhoanglinh11101998@gmail.com>"
+  ],
+  "description": "Demo Bower",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/LinhHoang1110/demo_bower.git",
+  "ignore": [
+    "README.md"
+  ]
+}
